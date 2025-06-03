@@ -1,4 +1,8 @@
-# React + Vite
+# Accordion-2.0
+
+This project is a React app built using Vite. It includes a simple accordion-style FAQ component.
+
+## Setup
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
