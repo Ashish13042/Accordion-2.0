@@ -1,12 +1,29 @@
-# Accordion-2.0
+# 📂 FAQ Accordion
 
-This project is a React app built using Vite. It includes a simple accordion-style FAQ component.
+A simple and reusable **FAQ-style Accordion component** built with **React.js**. This project helps users expand and collapse sections of content — commonly used for FAQs, interview prep questions, or any toggle-based UI.
 
-## Setup
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+- 🔽 **Expand/Collapse** — Click to open and close questions/answers.
+- 🔄 **Multiple Items** — Handles multiple accordion sections.
+- ⚙️ **Reusable Component** — Easily customize for different content.
+- 🎨 **Responsive Design** — Works on all screen sizes.
+- 🌙 **Optional Styling** — Customize with your own styles or themes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React.js
+- **Languages:** JavaScript, HTML5, CSS3
+- **Tools:** VS Code, Git, GitHub
+
+---
+
+## 📸 Screenshots
+
+> Example:
+![Screenshot 2025-06-04 162102](https://github.com/user-attachments/assets/b1061e25-c899-44cb-a987-016978eb5d69)
+
